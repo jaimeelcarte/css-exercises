@@ -1,0 +1,20 @@
+/* styles.css */
+
+.alert-text {
+  background-color: rgb(255, 150, 150);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.increased-font {
+  font-size: 24px;
+}
+
+#title {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#result {
+  background-color: hsl(120, 100%, 75%);
+  font-weight: bold;
+}
