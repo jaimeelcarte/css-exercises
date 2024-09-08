@@ -7,6 +7,44 @@ When doing these exercises, please use all documentation and resources you need 
 > [!IMPORTANT]
 > We encourage you to practice your git skills by committing your changes and pushing them to your own fork.  However, please **DO NOT** open a Pull Request to have your solutions merged into this repo or to show your solution.  If we were to merge your changes the exercises would no longer be available as intended for new learners, and opening a PR only causes additional work for us, as we have to close it without merging.
 
+## Index of contents
+
+### 1. Foundations
+
+1. [CSS methods](./foundations/01-css-methods/index.html)
+2. [Class & Id selectors](./foundations/02-class-id-selectors/index.html)
+3. [Grouping selectors](./foundations/03-grouping-selectors/index.html)
+4. [Chaining selectors](./foundations/04-chaining-selectors/index.html)
+5. [Descendant selectors](./foundations/05-descendant-combinator/index.html)
+6. [Cascade fix](./foundations/06-cascade-fix/index.html)
+
+### 2. Margin & Padding
+
+1. [Margin & Padding 1](./margin-and-padding/01-margin-and-padding-1/index.html)
+2. [Margin & Padding 2](./margin-and-padding/02-margin-and-padding-2/index.html)
+
+### 3. Flex
+
+1. [Flex center](./flex/01-flex-center/index.html)
+2. [Flex header 1](./flex/02-flex-header/index.html)
+3. [Flex header 2](./flex/03-flex-header-2/index.html)
+4. [Flex information](./flex/04-flex-information/index.html)
+5. [Flex modal](./flex/05-flex-modal/index.html)
+6. [Flex layout 1](./flex/06-flex-layout/index.html)
+7. [Flex layout 2](./flex/07-flex-layout-2/index.html)
+
+### 4. Grid (INCOMPLETE)
+
+1. Grid layout 1
+2. Grid layout 2
+3. Grid layout 3
+
+### 5. Animation (INCOMPLETE)
+
+1. Button hover
+2. Pop up
+3. Dropdown menu
+
 ## Contributing
 
 If you have suggestions to improve an exercise, ideas for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/.github/blob/main/CONTRIBUTING.md).
